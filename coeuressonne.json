@@ -779,13 +779,13 @@
     "Prix moyen": ""
   }
   ,
-    {
+   {
     "": "CE",
-    "NOM_EQU": "1 allée des Serres ",
-    "ADRESSE": "Rue sarments, Savigny sur orge, France",
-    "COMMUNE": "Savigny sur orge",
-    "GPS": "48.68124781805994, 2.36599231534319",
-    "Contact": "Tél: 0682270695  \n email : sylvie.lelievre73@gmail.com"",
+    "NOM_EQU": "F2 de 32 m2 situé au RDC d’un pavillon, jardin et parking ",
+    "ADRESSE": "20 rue du Limousin, Brétigny sur orge, France",
+    "COMMUNE": "Brétigny sur orge",
+    "GPS": "48.5941529818175, 2.305756384279922",
+    "Contact": "Tél: 0778516322  \n email : elo.lin@yahoo.fr",
     "CAPACITE  nbre de pers.": "",
     "CAPACITE nbre de chambre": "",
     "Eléments de confort": "",
@@ -793,4 +793,5 @@
     "Taxe de séjour \n(montant par pers/nuit)": "",
     "Prix moyen": ""
   }
+
 ]
